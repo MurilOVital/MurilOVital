@@ -13,13 +13,13 @@
 ---
 
 ## 📌 Projetos em Destaque
-- [Algoritmo de Segunda Chance (Python + GUI)](link-do-repo)
-- [Análise de Algoritmos (C e Python)](link-do-repo)
-- [Arduino Serial Communication](link-do-repo)
-- [Fraud Detection (Machine Learning)](link-do-repo)
-- [Z80 Processor Simulator](link-do-repo)
-- [GoalBall App (Android Studio)](link-do-repo)
-- [Breast Cancer Detection (Deep Learning)](link-do-repo)
+- [Algoritmo de Segunda Chance (Python + GUI)](l[ink-do-repo](https://github.com/MurilOVital/AlgoritimoSegundaChance))
+- [Análise de Algoritmos (C e Python)]([link-do-repo](https://github.com/MurilOVital/AnaliseAlgoritmos))
+- [Arduino Serial Communication]([link-do-repo](https://github.com/MurilOVital/arduino-serial-communication))
+- [Fraud Detection (Machine Learning)]([link-do-repo](https://github.com/MurilOVital/Fraud-Detectio))
+- [Z80 Processor Simulator]([link-do-repo](https://github.com/MurilOVital/z80-processor-simulator))
+- [GoalBall App (Android Studio)]([link-do-repo](https://github.com/MurilOVital/GoalBall))
+- [Breast Cancer Detection (Deep Learning)]([link-do-repo](https://github.com/MurilOVital/Breast-Cancer-Detection))
 
 ---
 
