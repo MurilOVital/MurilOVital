@@ -24,4 +24,4 @@
 ---
 
 📫 **Contato:**  
-murilo.rondina@gmail.com
+murilorondina@gmail.com
