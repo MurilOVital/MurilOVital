@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Murilo Vital
 
 🎯 Desenvolvedor com foco em **Machine Learning**, **Sistemas Embarcados** e **Análise de Algoritmos**.  
-💡 Apaixonado por resolver problemas complexos e transformar teoria em aplicações reais.
 
 ---
 
