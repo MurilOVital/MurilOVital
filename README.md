@@ -13,7 +13,7 @@
 ---
 
 ## 📌 Projetos em Destaque
-- [Algoritmo de Segunda Chance (Python + GUI)](l[ink-do-repo](https://github.com/MurilOVital/AlgoritimoSegundaChance))
+- [Algoritmo de Segunda Chance (Python + GUI)]([link-do-repo](https://github.com/MurilOVital/AlgoritimoSegundaChance))
 - [Análise de Algoritmos (C e Python)]([link-do-repo](https://github.com/MurilOVital/AnaliseAlgoritmos))
 - [Arduino Serial Communication]([link-do-repo](https://github.com/MurilOVital/arduino-serial-communication))
 - [Fraud Detection (Machine Learning)]([link-do-repo](https://github.com/MurilOVital/Fraud-Detectio))
