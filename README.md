@@ -24,13 +24,6 @@ Modelo de **Machine Learning** para identificar fraudes em transações financei
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurilOVital&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MurilOVital&layout=compact&theme=default)
-
----
-
 ## 📫 Contato
 
 - ✉️ **E-mail**: murilorondina@gmail.com
