@@ -1,7 +1,3 @@
-Interessado em Ciência de Dados e Machine Learning, com foco em análise, modelagem e visualização de dados.
-
----
-
 ## 🧑‍💻 Projetos em Destaque
 
 🔹 **[Breast Cancer Detection](https://github.com/MurilOVital/Breast-Cancer-Detection)**  
